@@ -1,0 +1,18 @@
+{
+    "name": "coff/php-map-controller",
+    "description": "multidimensional map based controller",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Coff\\MapController\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Krzysztof Kubanek",
+            "email": "krzysztof.kubanek@gmail.com"
+        }
+    ],
+    "require": {}
+}
